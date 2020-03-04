@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "Stereoflo\\TmdbBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "env": {
+    "TMDB_API_KEY": "you_key_here",
+    "TMDB_API_LANG": "en"
+  }
+}

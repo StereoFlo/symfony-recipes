@@ -1,0 +1,7 @@
+<bg=blue;fg=white>                     </>
+<bg=blue;fg=white> Next: Configuration </>
+<bg=blue;fg=white>                     </>
+
+  * Modify your TMDB_API_KEY config in <fg=green>.env</>
+
+  * Modify your TMDB_API_LANG config in <fg=green>.env</>
